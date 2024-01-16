@@ -14,6 +14,8 @@ https://gist.github.com/3lang3/a4da6078853150db3031f0d8d51bde9e
 解除后直接将代码贴上去，自动操作了，请将默认批次输入1，一次添加20个白名单
 ![image](https://github.com/xyyz12/transfer_everything_ok/assets/91812763/59ba915d-121e-42d2-acdc-ff26be2f6fd4)
 
+查询余额方法教学
+
 将代码导入
 
 ![image](https://github.com/xyyz12/transfer_everything_ok/assets/91812763/6b76a2a7-6bf7-4dbe-9385-20a0767e99a4)
@@ -33,8 +35,4 @@ https://gist.github.com/3lang3/a4da6078853150db3031f0d8d51bde9e
 
 ![image](https://github.com/xyyz12/transfer_everything_ok/assets/91812763/6afe5082-ff23-4867-abcb-510a0cfaec26)
 
-
-
-
-
-
+donate:0x43C1CfB2F164251fc9b6c958b64485D2b94870C4
