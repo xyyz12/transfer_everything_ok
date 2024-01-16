@@ -1,6 +1,8 @@
 # transfer_everything_ok
 从交易所向链上转账，以ok平台为例
 
+查询转账后的余额，可参考：https://github.com/gm365/BalanceChecker
+
 参考教程：https://github.com/gm365/Web3Scripts/tree/main
 
 https://twitter.com/0x3lang/status/1681610436612083712?t=C-0t7Gjj7-haOuw1jQaZDQ&s=19
